@@ -2,11 +2,11 @@
 
 > Let's get started!
 
-:computer: Estudante de **Programação**
+:computer: Pra mim é tão satisfatório **Programar**
 
-:cd: Tenho como hobby a **Música**
+:cd: Curto algumas **Músicas**
 
-:pencil: Adoro **criar** e **Desenhar**
+:pencil: **Web Designer / Front-End Student** 
 
 
 
